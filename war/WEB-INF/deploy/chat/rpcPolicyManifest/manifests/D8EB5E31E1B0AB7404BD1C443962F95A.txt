@@ -1,0 +1,2 @@
+serviceClass: ru.ifmo.client.GreetingService
+path: 6C58423CF4B78367595F4CBFDA703BEA.gwt.rpc
